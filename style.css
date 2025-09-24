@@ -70,7 +70,7 @@ nav ul li a:hover {
 }
 
 .menu-item {
-    display: inline-block;
+    display: flex;
     width: 250px;
     margin: 20px;
     background-color: #2b2b2b;
