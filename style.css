@@ -138,3 +138,7 @@ footer {
 footer p {
     font-size: 1rem;
 }
+.logo img {
+    width: 200px; 
+    height: 100; 
+}
